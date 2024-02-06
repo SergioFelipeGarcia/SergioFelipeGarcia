@@ -13,12 +13,8 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Actualmente estoy terminando el Grado Superior de Desarrollo de Aplicaciones Web en [Campusfp](https://campusfp.es/)
+- He adquirido experiencia para la configuración de las herramientas sistemas operativos y recursos necesarios para llevar a cabo el desarrollo de un proyecto.
 
 <br>
 
@@ -30,7 +26,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Conocimientos de 🧑‍💻 :
 
 <br>
 
@@ -56,7 +52,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SergioFelipeGarcia)](https://github.com/SergioFelipeGarcia/github-profile-trophy)
 
 <br>
 
@@ -64,11 +60,11 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SergioFelipeGarcia&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+Credit: [SergioFelipeGarcia](https://github.com/SergioFelipeGarcia)
 
-Last edited on: 30/06/2022
+
 
