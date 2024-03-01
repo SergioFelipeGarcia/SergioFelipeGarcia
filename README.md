@@ -11,14 +11,14 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/SergioFelipeGarcia?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/SergioFelipeGarcia?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SergioFelipeGarcia.repoName) <img src="https://komarev.com/ghpvc/?username=SergioFelipeGarcia" alt="SergioFelipeGarcia" />
 
-## About Me :
+##Sobre mi :
 
 - 🏢 Actualmente estoy terminando el Grado Superior de Desarrollo de Aplicaciones Web en [Campusfp](https://campusfp.es/)
 - He adquirido experiencia para la configuración de las herramientas sistemas operativos y recursos necesarios para llevar a cabo el desarrollo de un proyecto.
 
 <br>
 
-## Connect with me ☕ :
+## Contacta conmigo ☕ :
 
 <br>
 
