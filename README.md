@@ -4,8 +4,9 @@
 <br>
 
  <div class="foto">
-       <img src="https://media.licdn.com/dms/image/D4D35AQEnt7QnW4SU1A/profile-framedphoto-shrink_400_400/0/1705752568868?e=1707850800&v=beta&t=iTOKOZAEeDOmCjL3zA48hQDJbHckXy8e0ROfk-FS_jw" width="150" alt="Sergio Felipe" style="display: block; margin: 0 auto;">
+       <img src="![FotoPerfilSergio (2)](https://github.com/SergioFelipeGarcia/SergioFelipeGarcia/assets/117982855/b91698ae-240b-49ec-ac4a-5d150224c5aa)" width="150" alt="Sergio Felipe" style="display: block; margin: 0 auto;">
   </div> 
+
 
 
 
@@ -40,29 +41,7 @@
 
 <br>
 
-## GitHub Stats 📈 :
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SergioFelipeGarcia)](https://github.com/SergioFelipeGarcia/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SergioFelipeGarcia&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 Credit: [SergioFelipeGarcia](https://github.com/SergioFelipeGarcia)
 
