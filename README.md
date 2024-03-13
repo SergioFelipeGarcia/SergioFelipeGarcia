@@ -18,10 +18,11 @@
 
 ## Contacta conmigo ☕ :
 
-<br>
-[(https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")][![@anushkaduwolka123@gmail.com](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sergio-felipe-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-felipe-garcia" height="30" width="40" /></a>
+</p>
 
-<br>
 
 ## Conocimientos de 🧑‍💻 :
 
