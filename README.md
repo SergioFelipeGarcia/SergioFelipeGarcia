@@ -4,7 +4,7 @@
 <br>
 
  <div class="foto">
-       <img src="![FotoPerfilSergio (2)](https://github.com/SergioFelipeGarcia/SergioFelipeGarcia/assets/117982855/b91698ae-240b-49ec-ac4a-5d150224c5aa)" width="150" alt="Sergio Felipe" style="display: block; margin: 0 auto;">
+       [![Foto-Perfil-Sergio2-2.jpg](https://i.postimg.cc/Kj3fptHt/Foto-Perfil-Sergio2-2.jpg)](https://postimg.cc/fSZYJSZb)
   </div> 
 
 
