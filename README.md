@@ -3,10 +3,7 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Sergio</h1>
 <br>
 
- <div class="foto">
-       [![Foto-Perfil-Sergio2-2.jpg](https://i.postimg.cc/Kj3fptHt/Foto-Perfil-Sergio2-2.jpg)](https://postimg.cc/fSZYJSZb)
-  </div> 
-
+[![Foto-Perfil-Sergio2-2.jpg](https://i.postimg.cc/Kj3fptHt/Foto-Perfil-Sergio2-2.jpg)](https://postimg.cc/fSZYJSZb)
 
 
 
