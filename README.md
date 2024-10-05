@@ -11,10 +11,23 @@
 
 ##Sobre mi :
 
-- 🏢 Actualmente estoy terminando el Grado Superior de Desarrollo de Aplicaciones Web en [Campusfp](https://campusfp.es/)
+- 🏢 Soy Graduado Superior de Desarrollo de Aplicaciones Web en [Campusfp](https://campusfp.es/)
 - He adquirido experiencia para la configuración de las herramientas sistemas operativos y recursos necesarios para llevar a cabo el desarrollo de un proyecto.
 
 <br>
+## 🚀 Proyectos Destacados
+
+### 1. [Gestor de Citas para Empresas](URL-REPO)
+Desarrollo de una aplicación en **Power Apps** para gestionar citas y reservas, integrando **Dataverse** y automatización con **Power Automate**.
+
+### 2. [Landing Page para Supermercado](URL-REPO)
+Landing page optimizada para un supermercado, utilizando **HTML5**, **CSS3** y **JavaScript** con enfoque en la experiencia de usuario.
+
+### 3. [Aplicación de Gestión de Tareas](URL-REPO)
+Aplicación web desarrollada con **React** y **Node.js** para la gestión de tareas en equipo.
+
+### 4. [Automatización de Procesos Empresariales](URL-REPO)
+
 
 ## Contacta conmigo ☕ :
 
