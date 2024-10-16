@@ -20,6 +20,8 @@
 ### 1. [Gestor de Citas para Empresas](URL-REPO)
 Desarrollo de una aplicación en **Power Apps** para gestionar citas y reservas, integrando **Dataverse** y automatización con **Power Automate**.
 
+### 2- [Tienda online con consumo de API externas] (https://tenda-api-sergio-felipe.netlify.app/)
+
 ### 2. [Landing Page para Supermercado](URL-REPO)
 Landing page optimizada para un supermercado, utilizando **HTML5**, **CSS3** y **JavaScript** con enfoque en la experiencia de usuario.
 
